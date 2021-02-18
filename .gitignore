@@ -1,0 +1,14 @@
+*.env
+*.svg
+*.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist
+
+
+.vscode/
+node_modules/
